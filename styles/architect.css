@@ -6,6 +6,17 @@
     font-family: 'Work Sans', sans-serif;
 }
 
+.buttonPrimary{
+    border-radius: 8px;
+    background: #FF900E;
+    color: white;
+    font-size: 1.25rem;
+    padding: 20px 25px;
+    font-weight: 600;
+    cursor: pointer;
+    border: 0;
+}
+
 /* Header styles */
 header{
     background: rgba(255, 144, 14, 0.10);
