@@ -186,10 +186,17 @@ main{
     color: white;
     width: 300px;
     padding: 30px;
+    text-align: center;
+    position: relative;
 }
 
 .tenYearsBadge h2{
     font-size: 3.5rem;
+    /* margin-top: 0; */
+}
+
+.tenYearsBadge p{
+    font-size: 1.2rem;
 }
 
 /* Facts section */
